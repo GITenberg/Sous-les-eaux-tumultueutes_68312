@@ -1,0 +1,30 @@
+_repo: Sous-les-eaux-tumultueutes_68312
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melegari, Dora
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '46829'
+    url: http://www.gutenberg.org/2009/agents/46829
+    wikipedia: https://en.wikipedia.org/wiki/Dora_Melegari
+description: ''
+gutenberg_issued: '2022-06-14'
+identifiers:
+  gutenberg: '68312'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k11847809
+pgterms:marc905: 20211128015836melegari
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Librairie Fischbacher,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sous les eaux tumultueutes
+url: http://www.gutenberg.org/ebooks/68312
